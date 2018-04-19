@@ -172,3 +172,6 @@ org.eclipse.buildship.core.UnsupportedConfigurationException: Project at '/Users
 	at org.eclipse.buildship.core.util.progress.ToolingApiInvoker.invoke(ToolingApiInvoker.java:62)
 	at org.eclipse.buildship.core.util.progress.ToolingApiJob.run(ToolingApiJob.java:70)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-04-19 16:54:38.003
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
